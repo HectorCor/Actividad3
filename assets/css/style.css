@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    float: center;
+   
+  }
+ 
+
+ 
+body {
+    background: linear-gradient(to right, #ffb6c1, #ffdead, #f0e68c, #add8e6, #98fb98, #dda0dd); /* Colores pasteles del arcoíris */
+}
+
+  .menu {
+    background-color: #f0f0f0; 
+    overflow: hidden;
+    float: right;
+  }
+  
+  .menu a {
+    float: left;
+    display: block;
+    color: #ff6600; /* Color de las letras */
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  .menu a.adopta:hover {
+    background-color: yellow; /* Color de fondo cuando el mouse se acerca */
+    color: black; /* Color del texto al pasar el mouse */
+}
+
+
+
+  
+  .menu a:hover {
+    background-color: rgb(255, 217, 0); /* Color de fondo cuando el mouse se acerca */
+  }
+  
+  .menu a.adopta {
+    background-color: rgba(255, 217, 0, 0.822); /* Color de fondo de la opción activa */
+  }
+  
+/* Estilos para el título debajo de las imágenes */
+.carousel-item h3 {
+    text-align: center; /* Centrar el texto */
+    margin-top: 10px; /* Espacio entre la imagen y el título */
+}
+
+/* Estilos personalizados para el carrusel */
+/* Estilos personalizados para el carrusel */
+.carousel-item img {
+    max-height: 300px; /* Altura máxima de las imágenes */
+    margin: auto; /* Centrar las imágenes horizontalmente */
+    max-width: 20%; /* Ancho máximo de la imagen */
+}
+
+
+/* Estilos para las flechas de navegación */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: orange; /* Color de fondo de las flechas */
+}
+
+/* Estilos para los enlaces en el menú */
+.menu a {
+    color: black; /* Color del texto del menú */
+    margin-right: 10px; /* Espaciado entre enlaces */
+    text-decoration: none; /* Quitar subrayado de los enlaces */
+}
+
+.menu a:hover {
+    text-decoration: underline; /* Subrayar enlaces al pasar el ratón */
+}
+
+  
