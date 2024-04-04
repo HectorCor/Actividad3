@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family:'Courier New', Courier, monospace;
+}
+
+table{
+    font-family:'Courier New', Courier, monospace;
+}
+
+body {
+    background: linear-gradient(to right, #ffb6c1, #ffdead, #f0e68c, #add8e6, #98fb98, #dda0dd); /* Colores pasteles del arcoíris */
+}
