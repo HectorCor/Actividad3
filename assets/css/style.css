@@ -57,9 +57,9 @@ body {
 /* Estilos personalizados para el carrusel */
 /* Estilos personalizados para el carrusel */
 .carousel-item img {
-    max-height: 300px; /* Altura máxima de las imágenes */
+    max-height: 600px; /* Altura máxima de las imágenes */
     margin: auto; /* Centrar las imágenes horizontalmente */
-    max-width: 20%; /* Ancho máximo de la imagen */
+    max-width: 100%; /* Ancho máximo de la imagen */
 }
 
 
