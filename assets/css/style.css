@@ -21,11 +21,11 @@ body {
   .menu {
     background-color: #f0f0f0; 
     overflow: hidden;
-    float: right;
+    float: center;
   }
   
   .menu a {
-    float: left;
+    float: right;
     display: block;
     color: #ff6600; /* Color de las letras */
     text-align: center;
